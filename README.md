@@ -1,1 +1,2 @@
-# __My first game.__
+# __My first game__
+Ball endless runner
